@@ -9,7 +9,7 @@ function App() {
 		<>
 		<Logo/>
 		<div style={{display: 'flex', flexDirection: 'row', justifyContent: 'space-around'}}>
-			<Button name="Кнопка 1" one={20} two={150} func={()=>{alert('123')}}/> !!!
+			<Button name="Кнопка 1" one={20} two={150} func={()=>{alert('4567')}}/>
 			<Button name="Кнопка 2"/>
 		</div>
 		</>
